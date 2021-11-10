@@ -1,0 +1,22 @@
+body{
+    background-color: #fafafa;
+}
+form,td{
+    border: #222 solid 1px;
+border-radius: 5px;
+    padding: 12px;
+    background-color: #fff;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+}
+
+
+thead td{
+    background-color: #222;
+    color: #fafafa;
+    font-weight: bolder;
+}
